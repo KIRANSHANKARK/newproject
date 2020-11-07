@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: black;
+    height: 9em;
+    border:2px solid black;
+}
+header img{
+    margin: 2em;
+    
+}
+body{
+    background-color: black;
+}
+.navbar{
+    float: right;
+    margin-top: 3em;
+    width: 65%;
+    margin-right: 2em;
+    height: 3.5em;
+    border:2px solid white;
+}
+
+.caro{
+   
+    margin-right: 30px;
+    height: 350px;
+   
+}
+.imagesd img{
+     border: 1px solid white; 
+   margin-top: 10em;
+   margin-left: 2em;
+   width: 23em;
+   height:15em
+  
+ 
+}
+.imagesd2 img{
+    margin-top: 2em;
+}
+footer{
+    margin-top: 10em;
+    text-align: center;
+   
+    padding: 2em;
+}
+
+.footer-end{
+  
+   margin-top: 20px;
+ 
+   
+
+}
+footer a{
+
+    padding: 3px;
+    text-decoration: none;
+    
+}

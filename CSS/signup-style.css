@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    height: 6em;
+    border:2px solid black;
+}
+header img{
+    margin: 1em;
+    width: 15em;
+    
+}
+.navbar{
+    height: 5em;
+}
+.form{
+    width: 40%;
+   
+    margin-top: 5em;
+    margin-left: 30%;
+    padding: 3em;
+    margin-bottom: 5em;
+   
+}
+body{
+    background-image: url(/images/bglogun.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    margin-top: 15em;
+    text-align: center;
+   padding: 2em;
+   background-color: black;
+}
+
+.footer-end{
+  
+   margin-top: 10px;
+ 
+   
+
+}
+footer a{
+
+    padding: 3px;
+    text-decoration: none;
+    
+}

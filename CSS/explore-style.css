@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: black;
+    height: 6em;
+    border:2px solid black;
+}
+header img{
+    margin: 1em;
+    width: 15em;
+    
+    
+}
+.navbar{
+    height: 5em;
+}
+body{
+    background-image: url(/images/4.png);
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-color: black;
+   
+  
+}
+.card{
+    border:2px solid black;
+    margin-top: 5em;
+    width:17.5%;
+   
+    margin-left: 3em;
+    margin-right: 3em;
+  
+}
+.row{
+    padding:2em;
+}
+.card .btn{
+    
+    margin-top: 2em;
+    
+   
+}
+    

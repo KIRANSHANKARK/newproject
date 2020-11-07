@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    height: 6em;
+    border:2px solid black;
+}
+header img{
+    margin: 1em;
+    width: 15em;
+    
+}
+body{
+
+    background-size: cover;
+  
+
+}
+.navbar{
+    height: 5em;
+}
+.form{
+  
+  padding: 2em;
+  padding-right: 2px;
+    margin-top: 4em;
+    margin-left: 25em;
+    margin-right: 20em;
+    padding-bottom: 5em;
+  
+   
+    
+}
+.form-text{
+    
+    margin-left: 14em;
+
+}
+#exampleInputEmail1{
+    width:55%
+}
+#exampleInputPassword1{
+    width: 55%;
+    margin-left: 2em;
+}
+.form-control{
+    margin-left: 2em;
+}
+.form-check{
+    color: white;
+   margin-top: 1em;
+   margin-left: 8%;
+
+} 
+#emailHelp
+{
+    color: white;
+}
+.bot{
+  
+    border: 2px solid white;
+    margin-left: 3em;
+    margin-right: 13em;
+    float: right;
+  
+   
+
+}
+
